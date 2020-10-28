@@ -1,6 +1,8 @@
 # **Incipium's Anno 1800 Modding Reference**
 
-This is a guide to my mod, [Incipium's Tweaks and Enhancements](https://www.nexusmods.com/anno1800/mods/15). It is also a reference for GUIDs to help other modders or players.
+This is a guide to my mod, [Incipium's Tweaks and Enhancements](https://www.nexusmods.com/anno1800/mods/15). 
+
+If you are looking for the GUID Reference page, then go [here](https://incipium.github.io/Anno1800Modding/guid).
 
 ## How To
 
